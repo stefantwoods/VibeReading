@@ -85,9 +85,3 @@ This is a living curriculum. As you progress:
 - Document what works and what doesn't
 - Suggest improvements based on experience
 - Add resources that helped you understand difficult texts
-
----
-
-*"Every man I meet is my superior in some way, and in that I learn from him."* - Emerson
-
-Welcome to the journey. Let's build something excellent together.
