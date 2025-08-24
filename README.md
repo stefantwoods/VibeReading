@@ -23,8 +23,8 @@ This is a structured self-education program combining the Great Books tradition 
 
 ## 🚀 Getting Started
 
-1. **Read the full roadmap:** [ROADMAP.md](./ROADMAP.md)
-2. **Set up your AI tutors:** See [/resources/ai-tutors.md](./resources/ai-tutors.md)
+1. **Read the full roadmap:** [Roadmap.md](./Roadmap.md)
+2. **Set up your AI tutors:** See [/resources/AI-Tutors/](./resources/AI_Tutors/)
 3. **Begin Phase 1:** Start with *The Trivium* by Sister Miriam Joseph
 
 ## 🛠 What You'll Develop
@@ -76,7 +76,7 @@ Final Phase 5 Capstone: A 10,000-word philosophical treatise
 
 ## 🔗 Resources
 
-- [AI Tutors Guide](./resources/ai-tutors.md) - Your daily practice partners
+- [AI Tutors Guide](./resources/AI_Tutors/) - Your daily practice partners
 
 ## 📝 Contributing
 
