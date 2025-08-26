@@ -12,6 +12,7 @@
     - Start each conversation with begin sessions or session 1 to start exercises
     - Each mentor is made to generate a log at the end of each session
         - Copy paste this log into the projects (AI mentor's) context bank so that it can keep track of your progress
+        - !! Change to logging system: should now only keep logs until you progress to the next stage with the tutor, the tutor will give you an advancement log which you store in context bank. Then delete all the other logs
 
 ##### AI mentor uses
     - Grammar is made for our current book the trivium
@@ -32,3 +33,8 @@
     - Claude/ChatGPT both have "projects"
     - In projects add the AI tutor .md file to the instruction portion
     - In the "files" section add the logs/roadmap/any necessary context the ai will need
+
+    - !!! new process if the AI mentor has mulitple files (fill probably be most of them in the future)
+        - The masterPrompt should go in the project instructions
+        - The "Docs" should go into the context bank of the AI
+            - !IMPORTANT name the docs the same as the name of the file (ex: Doc 1: Exercise...)
