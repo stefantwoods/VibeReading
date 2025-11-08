@@ -1,7 +1,7 @@
 ````markdown
 # The Classical Excellence Roadmap
 > A self‑directed Great Books curriculum focused on **Grammar → Logic → Rhetoric → Philosophy → History → Social Graces → Economics → Theology → Literature**.  
-> Core document: **[`roadmap.md`](./Roadmap.md)**
+> Core document: **Roadmap.md**
 
 ---
 
