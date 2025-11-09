@@ -271,7 +271,7 @@ Advance when you can:
 - **Peter Frankopan, _The Silk Roads_** — provocative re‑centering on Eurasia; read alongside critical reviews for balance.
 
 ---
-# Social Graces
+# Communication
 
 - Castiglione, The Book of the Courtier
 
