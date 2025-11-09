@@ -1,6 +1,5 @@
-# The Complete Classical Excellence Roadmap (Final Version)
+# The Complete Classics Roadmap
 
-*A unified path to philosophical depth, rhetorical mastery, and conversational grace*
 
 -----
 
@@ -408,7 +407,3 @@ If you’d rather learn one master well:
 12. **Fyodor Dostoevsky — _The Brothers Karamazov_** _(or_ **_Crime and Punishment_**_)_ · Freedom, guilt, faith, and the problem of evil.
 
 -----
-
-## 🗓️ Total Timeline
-
-**Total:** group paced plan for complete transformation into a classical thinker, speaker, and person of excellence — with built-in recovery, practice under pressure, and systematic grace development.​​​​​​​​​​​​​​​​
