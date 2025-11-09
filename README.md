@@ -40,7 +40,7 @@ If you want a clear, minimal path through foundational texts (with built‑in pr
 - [ ] Kant: *Groundwork* (+ “What Is Enlightenment?”)  
 - [ ] Nietzsche: *On the Genealogy of Morals*  
 
-### Social Graces (practice‑oriented)  
+### Communication 
 - [ ] Castiglione, *Book of the Courtier*  
 - [ ] Montaigne, “Of Conversation”  
 - [ ] Cicero, *De Oratore* II (humor)  
